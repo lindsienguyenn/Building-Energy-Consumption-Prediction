@@ -1,5 +1,4 @@
 # Predicting the Energy Consumption for Buildings 
-# Energy Usage Prediction for Multi-Family Housing
 
 ## 1. Introduction to the Dataset
 
