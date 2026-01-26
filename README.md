@@ -1,1 +1,1 @@
-# Predicting the Energy Consumption for Building 
+# Predicting the Energy Consumption for Buildings 
