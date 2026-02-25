@@ -67,3 +67,5 @@ By combining dashboard-driven insights with machine learning predictions, the an
 
 Overall, the project provides a scalable framework for understanding and managing energy performance across a multi-family housing portfolio.
 
+www.kaggle.com/competitions/widsdatathon2022/overview/citation
+
