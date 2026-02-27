@@ -27,11 +27,11 @@ An interactive dashboard is used to translate raw data into **portfolio-level in
 
 Key views include:
 
-* **Average Site EUI** across the portfolio
-* **Top 10 properties by Site EUI**, highlighting high-priority buildings
-* **Heatmap of building performance** (green = efficient, red = high consumption)
-* **Distribution of properties by building class**
-* **Comparison of individual buildings to portfolio averages and ENERGY STAR benchmarks**
+* Portfolio Overview: Total and average Site EUI, floor area, property count, and Energy Star Rating
+* Total energy consumption and average intensity trends by year and state
+* State and building class performance comparison (Commercial vs. Residential)
+* Top 1,000 properties by Site EUI for targeted efficiency improvements
+* Energy intensity by facility type, identifying highest-consuming categories
 
 Due to annual data aggregation, **month-over-month trend analysis is not available**.
 
