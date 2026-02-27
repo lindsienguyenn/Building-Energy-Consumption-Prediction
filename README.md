@@ -23,17 +23,18 @@ Only three features are categorical (`State_Factor`, `building_class`, `facility
 
 ## 2. Dashboard
 
-An interactive dashboard is used to translate raw data into **portfolio-level insights** relevant to sustainability decision-making. The dashboard focuses on high-level KPIs rather than individual building diagnostics.
+**Amazon QuickSight Interactive Dashboard**: [View Dashboard](https://us-east-2.quicksight.aws.amazon.com/sn/accounts/013849273938/dashboards/3076f8f6-dc95-4520-9fa4-f3ee579d23ce?directory_alias=lindsienguyen)
 
-Key views include:
+An interactive dashboard translates raw data into **portfolio-level insights** for sustainability decision-making. The dashboard focuses on high-level KPIs rather than individual building diagnostics.
 
+### Key Views Include:
 * Portfolio Overview: Total and average Site EUI, floor area, property count, and Energy Star Rating
 * Total energy consumption and average intensity trends by year and state
 * State and building class performance comparison (Commercial vs. Residential)
 * Top 1,000 properties by Site EUI for targeted efficiency improvements
 * Energy intensity by facility type, identifying highest-consuming categories
 
-Due to annual data aggregation, **month-over-month trend analysis is not available**.
+**Note**: Due to annual data aggregation, month-over-month trend analysis is not available.
 
 ---
 
