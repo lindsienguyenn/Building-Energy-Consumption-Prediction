@@ -23,7 +23,7 @@ Only three features are categorical (`State_Factor`, `building_class`, `facility
 
 ## 2. Dashboard
 
-**Amazon QuickSight Non-Interactive Dashboard**: [View Dashboard](Energy%20Performance%20Dashboard%20(non%20interactive).pdf)
+## Amazon QuickSight Non-Interactive Dashboard: **[View Dashboard](Energy%20Performance%20Dashboard%20(non%20interactive).pdf)**
 
 An interactive dashboard translates raw data into **portfolio-level insights** for sustainability decision-making. The dashboard focuses on high-level KPIs rather than individual building diagnostics.
 
