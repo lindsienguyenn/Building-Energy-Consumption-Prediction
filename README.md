@@ -1,4 +1,4 @@
-# Predicting the Energy Consumption for Buildings 
+# Energy Consumption for Buildings Prediction
 
 ## 1. Introduction to the Dataset
 
