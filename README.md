@@ -53,6 +53,8 @@ Model outputs include:
 * RMSE-based performance evaluation
 * Correlation analysis between top features and Site EUI
 * Ranking of facility types by predicted energy intensity
+* For full methodology, preprocessing steps, model configurations, and results, see the [Project Report](https://github.com/lindsienguyenn/Building-Energy-Consumption-Prediction/blob/lindsienguyenn/hifromlindsie/project_report.pdf).
+
 
 ---
 
