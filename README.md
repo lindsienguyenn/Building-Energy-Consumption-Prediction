@@ -1,4 +1,4 @@
-# Predicting the Energy Consumption for Buildings 
+# Energy Consumption for Buildings Prediction
 
 ## 1. Introduction to the Dataset
 
@@ -23,7 +23,7 @@ Only three features are categorical (`State_Factor`, `building_class`, `facility
 
 ## 2. Dashboard
 
-**Amazon QuickSight Interactive Dashboard**: [View Dashboard](https://us-east-2.quicksight.aws.amazon.com/sn/accounts/013849273938/dashboards/3076f8f6-dc95-4520-9fa4-f3ee579d23ce?directory_alias=lindsienguyen)
+**Amazon QuickSight Non-Interactive Dashboard**: [View Dashboard](Energy%20Performance%20Dashboard%20(non%20interactive).pdf)
 
 An interactive dashboard translates raw data into **portfolio-level insights** for sustainability decision-making. The dashboard focuses on high-level KPIs rather than individual building diagnostics.
 
