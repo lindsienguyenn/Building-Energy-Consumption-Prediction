@@ -1,5 +1,5 @@
 #  Buildings Energy Consumption Prediction
-## Amazon QuickSight Non-Interactive Dashboard: **[View Dashboard](Energy%20Performance%20Dashboard%20%28non%20interactive%29.pdf)**
+## Amazon QuickSight Non-Interactive Dashboard: **[View Dashboard](Energy%20Performance%20Dashboard%20(non-interactive.pdf)**
 
 
 ## 1. Introduction to the Dataset
